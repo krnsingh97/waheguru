@@ -14,13 +14,14 @@
 <p>
 
 <h1>Modified the site in the following ways:</h1>
-a.	Add a descriptive title to both the navigation bar and the page title tag
-b.	Change the footer to include your name, student #, and the course name and code
-c.	Delete the auto-generated About and Contact pages, as well as the links to these pages that are in the navigation bar
-d.	Modify the auto-generated content on the home page to include a meaningful page heading as well as text that accurately describes the purpose of your site and what kind of data it manages (based on the tables / MVC files you’ve added).
+<p>a.	Add a descriptive title to both the navigation bar and the page title tag.</p>
+<p>b.	Change the footer to include your name, student #, and the course name and code</p>
+<p>.c.	Delete the auto-generated About and Contact pages, as well as the links to these pages that are in the navigation bar</p>
+<p>d.	Modify the auto-generated content on the home page to include a meaningful page heading as well as text that accurately describes the purpose of your site and what kind of data it manages (based on the tables / MVC files you’ve added).</p>
 
 </p>
-<p>Used GitHub to make regular commits (minimum 4) and create a README.md file that explains the purpose of your application.  Use .gitignore so the Packages folder does not get included in your online repository.
+<p>Used GitHub to make regular commits (minimum 4) and create a README.md file that explains the purpose of your
+application.  Use .gitignore so the Packages folder does not get included in your online repository.</p>
 
 </p>
 
